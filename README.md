@@ -5,7 +5,8 @@
 核心模块包括：内容管理、媒资管理、课程搜索、订单支付、选课管理、认证授权等。
 下图是项目的功能模块图：
 
-<img width="1772" height="1060" alt="236105592-9b6888b1-818e-4933-a57d-a6a47b650b24" src="https://github.com/user-attachments/assets/b132b69d-d349-410d-8ce3-90879ab0e59d" />
+<img width="886" height="530" alt="236105592-9b6888b1-818e-4933-a57d-a6a47b650b24" src="https://github.com/user-attachments/assets/32c3d1a3-abb2-4aba-bab4-2dc17a111af4" />
+
 
 
 下边介绍业务流程：
